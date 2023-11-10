@@ -21,7 +21,7 @@ padding-left: 1rem;
 .box{
 
 height: 20rem;
-background-color: wheat;
+background-color: rgb(10, 3, 3);
 }
 
 @media only  screen and  (max-width:1200px){
